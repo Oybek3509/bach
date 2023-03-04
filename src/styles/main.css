@@ -1,0 +1,9 @@
+.boxs{
+    background-image: url(../img/o.svg);
+    background-repeat: no-repeat;
+    background-position:100% 100%;
+
+    /* background-image: url(../img/02.svg);
+    background-repeat: no-repeat;
+    background-position:100% 100%; */
+}
